@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #3c3c3c;
+    font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+}
+
+.link-ene:hover {
+    background: #33cc99;
+    color: #fff;
+    padding: 5px;
+    font-weight: bold;
+}
+
+/* Style Colors */
+.color-white {
+    color: #fff;
+}
+
+.color-darkOrange {
+    color: #ff8c00;
+}
+
+.color-myGreen {
+    color: #33cc99;
+}
+
+/* Gravity */
+.grav-center-vertical {
+    position: absolute;
+    top: 50%;
+}
+
+.grav-center-horizontal {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
+
+.grav-bottom {
+    position: absolute;
+    bottom: 1%;
+}
+
+.login form input{
+    padding: 10px;
+    border: 1px solid white
+}
