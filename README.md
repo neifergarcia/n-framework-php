@@ -1,1 +1,3 @@
-N-Framework
+N-Framework PHP
+
+Es un pequeño framework en PHP.
