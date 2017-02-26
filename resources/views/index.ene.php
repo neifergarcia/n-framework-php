@@ -3,7 +3,10 @@ require_once("include/header.php");
 ?>
 
 <body>
-    <ene>Loading...</ene>
+
+	<div class="grav-center-horizontal grav-center-vertical">
+		<h1>N - Framework PHP</h1>
+	</div>
 
     <footer class="grav-bottom grav-center-horizontal bar-footer">
           <p class="text-footer">

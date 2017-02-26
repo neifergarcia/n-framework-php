@@ -11,7 +11,7 @@
 class IndexController extends Controller
 {
     public function __construct(){
-        $this->auth = true;
+        //$this->auth = true;
     }
 
     public function index(){
